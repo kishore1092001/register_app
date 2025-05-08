@@ -6,7 +6,7 @@ app.secret_key = 'your_secret_key'
 
 # Database configuration
 db_config = {
-    'host': 'db1',
+    'host': 'db',
     'user': 'root',
     'password': 'rootpassword',
     'database': 'user_app',
